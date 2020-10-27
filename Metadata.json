@@ -1,0 +1,20 @@
+{
+    "Author": "Jos Lieben",
+    "ContentSize": 23886,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/okta-user-to-office-365-contact-sync/master/OktaContactSync.ps1",
+    "DownloadCount": 1047,
+    "Id": "Okta-User-to-Office-365-9d223456",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 396,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-12-4T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script will synchronise (including updates and deletes) your Okta users to Office 365 contacts if they do not already exist in Office 365.Matching is done based on the email address of the user.It only syncs if the user isn't already synced by AADConnectIt only syncs users w",
+    "Title": "Okta User to Office 365 Contact Sync",
+    "UpdatedDate": "2018-10-23T00:00:00",
+    "Url": "https://github.com/azureautomation/okta-user-to-office-365-contact-sync",
+    "UserTags": "Powershell, Synchronization, Azure Automation"
+}
